@@ -9,6 +9,7 @@ public class DemoTest {
 	@Test
 	public void test() {
 		fail("나도");
+		// git은 내꺼.
 	}
 
 }
